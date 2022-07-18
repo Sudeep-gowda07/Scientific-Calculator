@@ -13,7 +13,9 @@ mod : From modulo. it's the operation to find the remainder of the division of o
 
 div : Floor division returns the result of the division rounded down to the nearest integer. In python we use the symbol // (e.g. 8div3 = 8//3 = 2). 
 
-x! : The factorial of the number x (e.g. 4! = 24). e : The Euler's number. A mathematical constant approximately equal to 2.71828.
+x! : The factorial of the number x (e.g. 4! = 24). 
+
+e : The Euler's number. A mathematical constant approximately equal to 2.71828.
 
 
 2nd Row :
@@ -46,7 +48,9 @@ x-1 : x raised to the power of (-1). The inverse of number x (e.g. 2-1 = 0.5).
 
 2√ : Square root of a number (e.g. 2√144 = 12). 
 
-3√ : Cube root of a number (e.g. 3√8 = 2). √ : Any root of a number (e.g. 4√16 = 2). 
+3√ : Cube root of a number (e.g. 3√8 = 2).
+
+√ : Any root of a number (e.g. 4√16 = 2). 
 
 log10 : The logarithm of a number with base 10 (e.g. log101000 = 3). 
 
@@ -55,7 +59,9 @@ ln : The logarithm of a number with base e (e.g. logee = ln e = 1).
 
 5th Row :
 
-( : Left parenthesis. ) : Right parenthesis. 
+( : Left parenthesis.
+
+) : Right parenthesis. 
 
 ± : Change the sign of a number. 
 
