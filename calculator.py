@@ -272,4 +272,4 @@ equal = Button(tk_calc, button_params_main, text='=',
                command=button_equal).grid(row=9, columnspan=2, column=3, sticky="nsew")
 
 
-tk_calc.mainloop()
+tk_calc.mainloop() 
